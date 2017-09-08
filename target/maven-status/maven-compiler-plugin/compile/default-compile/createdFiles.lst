@@ -1,8 +1,0 @@
-app\token\TokenFilter.class
-app\App.class
-app\token\FormatToken.class
-app\controller\AuthenticationController.class
-app\encryption\EncryptionInterface.class
-app\controller\CheckedController.class
-app\domain\User.class
-app\encryption\Encryption.class
